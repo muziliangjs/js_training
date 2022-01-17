@@ -1,6 +1,3 @@
-
-const hello = (name: string) => {
-  return `hello ${name}`
-}
-
-hello('mzl')
+let b: Number = 123;
+b = 123;
+ 
